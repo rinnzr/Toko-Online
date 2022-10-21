@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap'); 
+*{
+    font-family: 'Poppins';
+}
+
+/* login.php */
+
+/* produk_.php (beli btn) */
+.btn-beli{
+    background-color:#733773; 
+    color:white ; 
+    padding:10px 40px; 
+    border-radius:20px;
+    text-decoration: none;
+} 
+
+/* home.php  */
+
+.foto{
+      width: 700px;
+      height: 618px;
+      background-image: url("../toko2.jpg");
+      background-repeat: no-repeat;
+      background-position: center center;
+      background-size: cover;
+      opacity: 1;
+      position: absolute;
+      top: 140px;
+      left: 750px;
+      border-top-left-radius: 310px;
+      border-bottom-left-radius: 310px;
+      overflow: hidden;
+}
+.judul-h1{
+    width: 563px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 262px;
+    left: 31px;
+    font-weight: Bold;
+    font-size: 48px;
+    opacity: 1;
+    text-align: left;
+}
+.judul-h5{
+    width: 581px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 446px;
+    left: 31px;
+    font-weight: Medium;
+    font-size: 30px;
+    opacity: 1;
+    text-align: left;
+}
+
+

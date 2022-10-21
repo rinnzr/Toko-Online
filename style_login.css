@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap'); 
+*{
+    font-family: 'Poppins';
+}
+
+/* login.php */
+.body{
+    
+    background: rgba(238,231,238,1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+}
+.img{
+    width: 47%;
+    height: 748px;
+    background-image: url('toko1.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+}
+.text{
+    width: 365px;
+    color: black;
+    position: absolute;
+    top: 70px;
+    left: 911px;
+    font-size: 32px;
+    opacity: 1;
+    text-align: left;
+    margin-left: 43px;
+    text-align: center;
+}
+
+
